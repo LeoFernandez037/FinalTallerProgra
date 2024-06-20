@@ -2,15 +2,29 @@
     width: 364px;
     height: 90px;
     background-color:rgba(41, 41, 46, 1);
-    margin-top: 10px;
+    margin-top: 15px;
     display: flex;
     justify-content: space-around;
+    border-radius: 10PX;
 }
 
+.botonVector {
+    background-color: transparent;
+    border: 0px;
+}
+
+.botonVector img{
+    width: 24px;
+    height: 24px;
+    margin-top: 0px;
+    margin-right: 10px;
+}
 
 .description {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: center;
 }
 img{
     margin-top: 10px;
