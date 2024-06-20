@@ -1,0 +1,16 @@
+.contenedorTitulo{
+    display: flex;
+    width: 364px;
+    justify-content: space-between;
+    height: 26px;
+}
+
+h4{
+    margin: 0px;
+    margin-left: 2px;
+}
+
+p{
+ margin: 0px;
+ margin-right: 2px;
+}

@@ -7,7 +7,7 @@ import Header from "./components/Header.jsx";
 function App() {
   return (
     <>
-      <div classname="contenedorApp">
+      <div className="contenedorApp">
         <Header />
         <Ejercicios />
       </div>

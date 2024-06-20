@@ -1,0 +1,19 @@
+.tarjetaEjercicios{
+    width: 364px;
+    height: 90px;
+    background-color:rgba(41, 41, 46, 1);
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.description {
+    display: flex;
+    align-items: center;
+}
+img{
+    margin-top: 10px;
+    width: 70px;
+    height: 70px;
+}
